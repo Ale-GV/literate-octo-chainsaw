@@ -1,3 +1,8 @@
+body {
+  color: grey;
+  font-size: 20px;
+  font-family: century;
+}
 h1 {
   color: darkolivegreen;
   font-size: 42px;
@@ -8,4 +13,7 @@ h2 {
   color: darkslategray;
   font-size: 36px;
   font-family: helvetica;
+}
+p {
+  color: darkorange;
 }
