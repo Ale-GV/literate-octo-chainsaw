@@ -2,13 +2,14 @@ body {
   color: grey;
   font-size: 20px;
   font-family: century;
-  background-color: rgb(186, 179, 179);
+  background-color: rgb(209, 207, 207);
   background-repeat: repeat;
 }
 h1 {
   color: darkolivegreen;
   font-size: 42px;
   font-family: helvetica;
+  text-shadow: whitesmoke;
 }
 
 h2 {
