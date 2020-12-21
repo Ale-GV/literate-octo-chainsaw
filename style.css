@@ -2,22 +2,22 @@ body {
   color: grey;
   font-size: 20px;
   font-family: century;
-  background-color: rgb(230, 228, 228);
+  background-color: rgb(140, 156, 146);
   background-repeat: repeat;
 }
 h1 {
-  color: darkolivegreen;
+  color: rgb(50, 87, 93);
   font-size: 42px;
   font-family: helvetica;
 }
 
 h2 {
-  color: darkslategray;
+  color: rgb(189, 171, 190);
   font-size: 36px;
   font-family: helvetica;
 }
 p {
-  color: darkorange;
+  color: rgb(226, 169, 161);
 }
 a:hover {
   text-decoration: none;
@@ -25,6 +25,5 @@ a:hover {
   font-size: 22px;
 }
 #col1 {
-  background-color: rgb(252, 209, 168);
   text-align: center;
 }
