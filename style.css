@@ -9,7 +9,6 @@ h1 {
   color: darkolivegreen;
   font-size: 42px;
   font-family: helvetica;
-  text-shadow: silver;
 }
 
 h2 {
@@ -19,4 +18,9 @@ h2 {
 }
 p {
   color: darkorange;
+}
+a:hover {
+  text-decoration: none;
+  color: green;
+  font-size: 22px;
 }
