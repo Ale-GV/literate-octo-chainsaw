@@ -25,5 +25,6 @@ a:hover {
   font-size: 22px;
 }
 #col1 {
-  background-color: orange;
+  background-color: rgb(252, 209, 168);
+  text-align: center;
 }
