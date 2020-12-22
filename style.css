@@ -21,8 +21,9 @@ p {
 }
 a:hover {
   text-decoration: none;
-  color: green;
-  font-size: 22px;
+  color: rgb(136, 67, 68);
+  font-size: 20px;
+  background-color: rgb(244, 244, 244, 0.3);
 }
 #col1 {
   text-align: center;
