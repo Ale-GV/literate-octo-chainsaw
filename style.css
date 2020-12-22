@@ -4,7 +4,6 @@ body {
   font-family: century;
   background-color: rgb(140, 156, 146);
   background-repeat: repeat;
-  overflow: hidden;
 }
 h1 {
   color: rgb(50, 87, 93);
@@ -34,9 +33,11 @@ a:hover {
 
 @keyframes slidein {
   from {
-    margin-right: 0%;
+    margin-left: 0%;
+    width: 300%;
   }
   to {
-    margin-right: 100%;
+    margin-left: 100%;
+    width: 100%;
   }
 }
