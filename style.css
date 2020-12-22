@@ -28,17 +28,18 @@ a:hover {
   font-size: 20px;
   background-color: rgb(244, 244, 244, 0.3);
 }
+
 #col1 {
   text-align: center;
 }
 
 @keyframes slidein {
   from {
-    margin-left: 0%;
-    width: 300%;
+    margin-left: 100%;
+    width: 500%;
   }
   to {
-    margin-left: 100%;
-    width: 0%;
+    margin-left: 0%;
+    width: 100%;
   }
 }
