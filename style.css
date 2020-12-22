@@ -4,6 +4,7 @@ body {
   font-family: century;
   background-color: rgb(140, 156, 146);
   background-repeat: repeat;
+  overflow: hidden;
 }
 h1 {
   color: rgb(50, 87, 93);
