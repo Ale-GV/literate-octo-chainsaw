@@ -2,12 +2,12 @@ body {
   color: grey;
   font-size: 20px;
   font-family: century;
-  background-color: rgb(140, 156, 146);
+  background-color: rgb(50, 87, 93);
   background-repeat: repeat;
   overflow: hidden;
 }
 h1 {
-  color: rgb(50, 87, 93);
+  color: rgb(190, 138, 74);
   font-size: 42px;
   font-family: helvetica;
   animation-name: slide-right;
