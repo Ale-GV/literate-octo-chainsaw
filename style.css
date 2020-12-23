@@ -19,7 +19,7 @@ h2 {
   font-size: 36px;
   font-family: helvetica;
   animation-name: slide-left;
-  animation-duration: 3.6s;
+  animation-duration: 4s;
 }
 p {
   color: rgb(226, 169, 161);
@@ -49,10 +49,10 @@ a:hover {
 @keyframes slide-left {
   from {
     margin-left: -100%;
-    width: 0%;
+    width: 50%;
   }
   to {
-    margin-right: 0%;
+    margin-left: 0%;
     width: 100%;
   }
 }
