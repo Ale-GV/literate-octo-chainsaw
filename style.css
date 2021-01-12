@@ -20,6 +20,12 @@ h2 {
   animation-name: slide-left;
   animation-duration: 3s;
 }
+#navigation {
+  background-color: white;
+  font-color: rgb(77, 77, 77);
+  height: 30px;
+}
+
 p {
   color: rgb(226, 169, 161);
 }
